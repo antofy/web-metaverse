@@ -1,4 +1,4 @@
-# VRSpace: Multiuser Virtual Reality Engine
+# Metaegg: Multiuser Virtual Reality Engine
 
 # Quickstart
 
@@ -16,12 +16,12 @@ Use content/worlds/template as a template for your own multiuser worlds, it's al
 
 # Live Demo
 
-Fully featured live demo/test instance of current development version is available at http://www.vrspace.org/
+Fully featured live demo/test instance of current development version is available at http://www.metaegg.io/
 
 # Community
 
 Wiki, forums, and everything else: https://redmine.vrspace.org/projects/vrspace-org/wiki
 
-Facebook page: https://www.facebook.com/vrspace.org
+Facebook page: https://www.facebook.com/metaegg_io
 
-Youtube channel: https://www.youtube.com/channel/UCLdSg22i9MZ3u7ityj_PBxw
+Youtube channel: https://www.youtube.com/channel/MetaeggMetaverse
