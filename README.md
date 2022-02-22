@@ -20,8 +20,7 @@ Fully featured live demo/test instance of current development version is availab
 
 # Community
 
-Wiki, forums, and everything else: https://redmine.vrspace.org/projects/vrspace-org/wiki
+Wiki, docs, and everything else: https://docs.metaegg.io/
+Facebook page: https://www.facebook.com/metaeggio
 
-Facebook page: https://www.facebook.com/metaegg_io
-
-Youtube channel: https://www.youtube.com/channel/MetaeggMetaverse
+Youtube channel: https://www.youtube.com/c/MetaeggMetaverse
