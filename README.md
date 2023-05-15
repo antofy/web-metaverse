@@ -1,4 +1,4 @@
-# Metaegg: Multiuser Virtual Reality Engine
+# Antofy: Multiuser Virtual Reality Engine
 
 # Quickstart
 
@@ -16,11 +16,4 @@ Use content/worlds/template as a template for your own multiuser worlds, it's al
 
 # Live Demo
 
-Fully featured live demo/test instance of current development version is available at http://www.metaegg.io/
-
-# Community
-
-Wiki, docs, and everything else: https://docs.metaegg.io/
-Facebook page: https://www.facebook.com/metaeggio
-
-Youtube channel: https://www.youtube.com/c/MetaeggMetaverse
+Fully featured live demo/test instance of current development version is available at http://www.antofy.io/
